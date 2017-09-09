@@ -1,4 +1,4 @@
-#Tema 05 - Sistema de Revenda de Veículos
+Tema 05 - Sistema de Revenda de Veículos
 
 Nome: PS-2017-2-SI-RevendaVeiculos
 
