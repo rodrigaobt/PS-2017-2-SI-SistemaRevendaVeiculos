@@ -25,3 +25,7 @@ Entidades envolvidas no projeto:
 10.	No final do mês deverá ser gerado:
 10.1.	um relatório com o valor da remuneração de cada funcionario_vendedor.
 10.2.	Relatório de vendas, classificados por funcionario_vendedor, cliente_vendedor, cliente_comprador.
+
+
+P/ executar o Sistema:
+-> Adicione a pasta /ProjetoFinal à sua /home e execute o .jar para conseguir executar (foi usado arquivos e não BD);
